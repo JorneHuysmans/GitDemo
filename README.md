@@ -1,4 +1,4 @@
-# Git Demo Repositoryasdf
+# Git Demo Repo
 This is a sample repository / sample app for the Git course.
 
 ## Roadmap
